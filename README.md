@@ -3,8 +3,10 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 
 <br>
- je test 
------
+Languages actuels :
+
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=pink">
+
 
 
 
