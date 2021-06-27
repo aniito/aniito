@@ -20,9 +20,10 @@
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </p><br>
 
-<strong><p align="center">IDE actuels :</strong><br>
+<strong><p align="center">IDE actuels :<br>
 <img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1" height="50"/> mousepad
 <img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1" height="50"/> Vscodium
+  </strong>
 </p>
 <br>
 ### <p align="center">👀 &nbsp;Visiteurs</p>
