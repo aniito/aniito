@@ -21,8 +21,8 @@
 </p><br>
 
 <strong><p align="center">IDE actuels :</strong><br>
-<img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1" height="50"/>
-<img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1" height="50"/>
+<img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1" height="50"/> mousepad
+<img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1" height="50"/> Vscodium
 </p>
 <br>
 ### <p align="center">👀 &nbsp;Visiteurs</p>
