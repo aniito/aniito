@@ -3,7 +3,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 
 <br>
-<ul><p align="center">Languages actuels :</p></ul>
+<bold><p align="center">Languages actuels :</p></bold>
 <p align="center">
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=pink"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
