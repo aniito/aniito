@@ -27,7 +27,10 @@
 </p>
 <br>
 
-<p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? <a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p>
+<p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? 
+<br>  
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"\>
+<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p>
 <br>
 <p align="center">👀 &nbsp;Visiteurs</p>
 
