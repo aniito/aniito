@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+</p><br>
 
 <strong><p align="center">GNU/LINUX à vie</strong><br>
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
@@ -21,8 +21,8 @@
 </p><br>
 
 <strong><p align="center">IDE actuels :</strong><br>
-<img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1"/>
-<img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1"/>
+<img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1" height="50"/>
+<img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1" height="50"/>
 </p>
 <br>
 ### <p align="center">👀 &nbsp;Visiteurs</p>
