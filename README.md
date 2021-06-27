@@ -18,9 +18,13 @@
 <strong><p align="center">GNU/LINUX à vie</strong><br>
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+</p><br>
+
+<strong><p align="center">IDE actuels :</strong><br>
+<img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1"/>
+<img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1"/>
 </p>
-
-
+<br>
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 
 <br>
