@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
+<img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1"/>
+
+
 
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 
