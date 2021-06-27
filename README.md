@@ -26,7 +26,10 @@
   </strong>
 </p>
 <br>
-### <p align="center">👀 &nbsp;Visiteurs</p>
+
+<br>tu veut me rejoindre ? <a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a>
+<br>
+<p align="center">👀 &nbsp;Visiteurs</p>
 
 <br>
 
