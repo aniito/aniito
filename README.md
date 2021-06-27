@@ -16,7 +16,7 @@
 </p>
 
 <strong><p align="center">GNU/LINUX à vie</strong><br>
-<img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1"/>
+<img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
 </p>
 
 
