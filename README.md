@@ -1,7 +1,7 @@
 -----
 
 ### <p align="center">🧠 &nbsp;Moi && mon qi qui dépasse les 10 chiffres</p>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fintermediary%2Ff%2Fd8328f77-2bec-4a20-9483-ea76dd62985e%2Fdan31sc-80f18518-0ef0-4bdc-9c0a-11c9e62b769f.png&f=1&nofb=1"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fintermediary%2Ff%2Fd8328f77-2bec-4a20-9483-ea76dd62985e%2Fdan31sc-80f18518-0ef0-4bdc-9c0a-11c9e62b769f.png&f=1&nofb=1" height="50"/>
 
 <br>
 <strong><p align="center">🧠 Languages que je maîtrise actuellement :</p></strong><br>
