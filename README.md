@@ -1,6 +1,6 @@
 -----
 
-### <p align="center">🧠 &nbsp;Moi</p>
+### <p align="center">🧠 &nbsp;Moi && mon qi qui dépasse les 10 chiffres</p>
 
 <br>
 <strong><p align="center">🧠 Languages que je maîtrise actuellement :</p></strong>
@@ -27,7 +27,7 @@
 </p>
 <br>
 
-<br>tu veut me rejoindre ? <a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a>
+<p align="center"><br>tu veut me rejoindre ? <a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p>
 <br>
 <p align="center">👀 &nbsp;Visiteurs</p>
 
