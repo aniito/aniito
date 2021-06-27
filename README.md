@@ -1,6 +1,7 @@
 -----
 
 ### <p align="center">🧠 &nbsp;Moi && mon qi qui dépasse les 10 chiffres</p>
+<img src="https://tenor.com/view/ziomson-ziomson-zero-m%C3%B3%C5%BCyn-gif-19882372"/>
 
 <br>
 <strong><p align="center">🧠 Languages que je maîtrise actuellement :</p></strong><br>
@@ -30,9 +31,7 @@
 <p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? 
 <br>  <br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
-<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p>
-<img src="https://tenor.com/view/ziomson-ziomson-zero-m%C3%B3%C5%BCyn-gif-19882372"/>
-<br>
+<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p><br>
 <p align="center">👀 &nbsp;Visiteurs</p>
 
 <br>
