@@ -1,8 +1,7 @@
 -----
 
 ### <p align="center">🧠 &nbsp;Moi && mon qi qui dépasse les 10 chiffres</p>
-<p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fintermediary%2Ff%2Fd8328f77-2bec-4a20-9483-ea76dd62985e%2Fdan31sc-80f18518-0ef0-4bdc-9c0a-11c9e62b769f.png&f=1&nofb=1" height="80"/>
+<p align="center">  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeCqFYAVjjDksg%2Fgiphy.gif&f=1&nofb=1"/>
 </p>
 <br>
@@ -33,7 +32,8 @@
 <p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? 
 <br>  <br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
-<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p><br>
+<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Fintermediary%2Ff%2Fd8328f77-2bec-4a20-9483-ea76dd62985e%2Fdan31sc-80f18518-0ef0-4bdc-9c0a-11c9e62b769f.png&f=1&nofb=1" height="80"/></p><br>
 <p align="center">👀 &nbsp;Visiteurs</p>
 
 <br>
