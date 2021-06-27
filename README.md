@@ -1,6 +1,6 @@
 -----
 
-### <h1><p align="center">🧠 &nbsp;Moi && mon qi qui dépasse les 10 chiffres</p></h1>
+### <h2><p align="center">🧠 &nbsp;Moi && mon Q.I qui dépasse les 10 chiffres</p></h2>
 <p align="center">  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeCqFYAVjjDksg%2Fgiphy.gif&f=1&nofb=1"/>
 </p>
