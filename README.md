@@ -17,13 +17,13 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p><br>
 
-<h3><strong><p align="center">🐧 GNU/LINUX à vie</strong></h3><br><br>
+<h3><strong><p align="center">🐧 GNU/LINUX à vie</strong></h3><br>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </p><br>
 
-<h3><strong><p align="center">🖥️ IDE actuels :</h3><br><br>
+<h3><strong><p align="center">🖥️ IDE actuels :</h3><br>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/857023173017862155.png?v=1" height="50"/> mousepad
 <img src="https://cdn.discordapp.com/emojis/854309416344879124.png?v=1" height="50"/> Vscodium
@@ -32,7 +32,7 @@
 <br>
 
 <h3><p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? </h3>
-<br>  <br>
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
 <a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p><br>
