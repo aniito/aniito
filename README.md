@@ -17,6 +17,7 @@
 
 <strong><p align="center">GNU/LINUX à vie</strong><br>
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </p>
 
 
