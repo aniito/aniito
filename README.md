@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-<strong><p align="center">GNU/LINUX à vie</strong>
+<strong><p align="center">GNU/LINUX à vie</strong><br>
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1"/>
 </p>
 
