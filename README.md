@@ -17,8 +17,9 @@
 </p><br>
 
 <h3><strong><p align="center">♾️ frameworks que j'utilise :</p></strong></h3><br>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D"/>
+<p align="center">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
 </p><br>
 
 <h3><strong><p align="center">🐧 GNU/LINUX à vie</strong></h3>
