@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p><br>
 
+<h3><strong><p align="center">♾️ frameworks que j'utilise :</p></strong></h3><br>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D"/>
+</p><br>
+
 <h3><strong><p align="center">🐧 GNU/LINUX à vie</strong></h3>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
@@ -30,7 +35,7 @@
 </p>
 <br>
 
-<h3><p align="center"><br>🕵️‍♂️ tu veut me rejoindre ? </h3>
+<h3><p align="center"><br>🕵️‍♂️ </h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
