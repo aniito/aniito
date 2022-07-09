@@ -39,8 +39,8 @@
 <h3><p align="center"><br>🕵️‍♂️ </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
-<a href="https://discord.gg/FyY9Hvm8T8">serveur discord</a></p><br>
+<a href="https://discord.gg/FyY9Hvm8T8"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+</a></p><br>
 <p align="center">👀 &nbsp;Visiteurs</p>
 
 <br>
