@@ -1,6 +1,6 @@
 -----
 
-### <h2><p align="center">🧠 &nbsp;Moi && mon Q.I qui dépasse les 10 chiffres</p></h2>
+### <h2><p align="center">👑 &nbsp;Moi && mon Q.I qui dépasse les 10 chiffres</p></h2>
 <p align="center">  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeCqFYAVjjDksg%2Fgiphy.gif&f=1&nofb=1"/>
 </p>
@@ -20,12 +20,14 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label="/>
 </p><br>
 
 <h3><strong><p align="center">🐧 GNU/LINUX à vie</strong></h3>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=ArchCraft&color=1c2027&logo=Arch+Linux&logoColor=89bd9e&label="/>
 </p><br>
 
 <h3><strong><p align="center">🖥️ IDE actuels :</h3>
