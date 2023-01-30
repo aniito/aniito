@@ -5,11 +5,11 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeCqFYAVjjDksg%2Fgiphy.gif&f=1&nofb=1"/>
 </p>
 <br>
-```js
+  ```js
 const languages = require("savoir").languages_de_prog;
 console.log("🧠 Languages que je maîtrise actuellement:");
 languages.display();
-```
+  ```
 <h3><strong><p align="center">🧠 Languages que je maîtrise actuellement :</p></strong></h3><br>
 <p align="center">
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=pink"/>
