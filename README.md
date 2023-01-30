@@ -5,11 +5,13 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FeCqFYAVjjDksg%2Fgiphy.gif&f=1&nofb=1"/>
 </p>
 <br>
-  ```js
+
+```js
 const languages = require("savoir").languages_de_prog;
 console.log("🧠 Languages que je maîtrise actuellement:");
 languages.display();
-  ```
+```
+
 <h3><strong><p align="center">🧠 Languages que je maîtrise actuellement :</p></strong></h3><br>
 <p align="center">
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=pink"/>
@@ -20,18 +22,21 @@ languages.display();
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p><br>
+
 ```perl
 use savoir;
 my $frameworks = savoir::frameworks;
 print "♾️ frameworks que j'utilise :\n";
 $frameworks->display;
 ```
+
 <h3><strong><p align="center">♾️ frameworks que j'utilise :</p></strong></h3><br>
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label="/>
 </p><br>
+
 ```php
 <?php
 use aniito\os as $os;
@@ -39,16 +44,18 @@ echo "🐧 Os que j'utilise :\n";
 $os->display();
 ?>
 ```
+
 <h3><strong><p align="center">🐧 Os que j'utilise :</strong></h3>
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/854122201329565697.png?v=1" height="50"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ArchCraft&color=1c2027&logo=Arch+Linux&logoColor=89bd9e&label="/>
 </p><br>
-```py
-from aniito import ide
-print("🖥️ IDE actuels :")
-ide.display()
+
+```python
+from aniito import ide;
+print("🖥️ IDE actuels :");
+ide.display();
 ```
 <h3><strong><p align="center">🖥️ IDE actuels :</h3>
 <p align="center">
