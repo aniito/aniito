@@ -53,9 +53,9 @@ $os->display();
 </p><br>
 
 ```python
-from aniito import ide;
-print("🖥️ IDE actuels :");
-ide.display();
+from aniito import ide
+print("🖥️ IDE actuels :")
+ide.display()
 ```
 <h3><strong><p align="center">🖥️ IDE actuels :</h3>
 <p align="center">
