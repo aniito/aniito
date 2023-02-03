@@ -35,6 +35,7 @@ $frameworks->display;
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=" />
 </p><br>
 
 ```php
